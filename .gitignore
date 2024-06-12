@@ -1,0 +1,35 @@
+# Archivos generados por Android Studio
+.gradle/
+.idea/
+build/
+local.properties
+
+# Archivos generados por el sistema
+*.iml
+.DS_Store
+
+# Archivos de configuración específicos del desarrollador
+/app/build/generated/source/buildConfig/
+/app/build/outputs/
+
+# Archivos de claves y contraseñas (¡NUNCA los subas a control de versiones!)
+*.keystore
+*.jks
+*.properties
+
+# Archivos temporales y de caché
+*.apk
+*.aab
+*.zip
+*.tar.gz
+*.log
+
+# Archivos específicos de tu IDE o sistema operativo
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Archivos generados por herramientas de terceros
+.cxx/
+*.profraw
