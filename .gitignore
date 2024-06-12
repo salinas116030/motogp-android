@@ -33,3 +33,9 @@ Thumbs.db
 # Archivos generados por herramientas de terceros
 .cxx/
 *.profraw
+
+# Gradle Wrapper
+.gradle/wrapper/dists/
+gradle/wrapper/dists/
+gradlew.bat
+gradlew
