@@ -37,5 +37,3 @@ Thumbs.db
 # Gradle Wrapper
 .gradle/wrapper/dists/
 gradle/wrapper/dists/
-gradlew.bat
-gradlew
